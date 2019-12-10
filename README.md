@@ -1,5 +1,5 @@
 # hide-download-bar
-chrome extension to hide download bar
+chrome extension to hide download bar with keyboard shortcut
 
 http://wiki.gimslab.com/moniwiki/wiki.php/HideDownloadBar
 
